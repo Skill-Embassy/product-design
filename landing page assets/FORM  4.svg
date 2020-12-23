@@ -1,0 +1,280 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-FORM_4);
+      }
+
+      .cls-2 {
+        fill: #ff95a9;
+      }
+
+      .cls-10, .cls-3, .cls-5, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #0eb582;
+      }
+
+      .cls-5, .cls-6, .cls-9 {
+        font-size: 29px;
+      }
+
+      .cls-10, .cls-11, .cls-5 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .cls-6 {
+        fill: #1c1c1c;
+        font-family: OpenSans, Open Sans;
+      }
+
+      .cls-6, .cls-9 {
+        opacity: 0.91;
+      }
+
+      .cls-7 {
+        fill: #ececec;
+      }
+
+      .cls-11, .cls-8 {
+        fill: #6c63ff;
+      }
+
+      .cls-9 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-10, .cls-11 {
+        font-size: 18px;
+      }
+
+      .cls-12 {
+        fill: #fdfdfd;
+      }
+
+      .cls-13 {
+        filter: url(#Rectangle_1090-2);
+      }
+
+      .cls-14 {
+        filter: url(#Rectangle_1090);
+      }
+
+      .cls-15 {
+        filter: url(#Rectangle_527-6);
+      }
+
+      .cls-16 {
+        filter: url(#Rectangle_527-5);
+      }
+
+      .cls-17 {
+        filter: url(#Rectangle_527-4);
+      }
+
+      .cls-18 {
+        filter: url(#Rectangle_527-3);
+      }
+
+      .cls-19 {
+        filter: url(#Rectangle_527-2);
+      }
+
+      .cls-20 {
+        filter: url(#Rectangle_527);
+      }
+
+      .cls-21 {
+        filter: url(#Rectangle_1811);
+      }
+
+      .cls-22 {
+        filter: url(#Rectangle_1809);
+      }
+
+      .cls-23 {
+        filter: url(#Rectangle_1816);
+      }
+    </style>
+    <filter id="Rectangle_1816" x="0" y="-43" width="1920" height="1172" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="35" result="blur"/>
+      <feFlood flood-opacity="0.129"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1809" x="218" y="72" width="1483" height="372" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="35" result="blur-2"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1811" x="218" y="182" width="1484" height="902" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="35" result="blur-3"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_527" x="357" y="761" width="1206" height="114" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-4"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_527-2" x="357" y="667" width="1206" height="114" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-5"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_527-3" x="342" y="560" width="1236" height="144" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-6"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_527-4" x="357" y="479" width="1206" height="114" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-7"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_527-5" x="357" y="385" width="1206" height="114" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-8"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_527-6" x="357" y="291" width="1206" height="114" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-9"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1090" x="967.938" y="879" width="221.52" height="76" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-10"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1090-2" x="730.998" y="879" width="200.502" height="76.25" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-11"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-FORM_4">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="FORM_4" data-name="FORM  4" class="cls-1">
+    <rect class="cls-12" width="1920" height="1080"/>
+    <path id="Path_908" data-name="Path 908" class="cls-2" d="M0,0H1920V1080H0Z" transform="matrix(-0.485, 0.875, -0.875, -0.485, 2569.711, 77.163)"/>
+    <g class="cls-23" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="Rectangle_1816-2" data-name="Rectangle 1816" class="cls-3" width="1710" height="962" rx="35" transform="translate(105 59)"/>
+    </g>
+    <g id="experience" transform="translate(0 -4177)">
+      <g id="Group_400" data-name="Group 400" transform="translate(323 4351)">
+        <g class="cls-22" transform="matrix(1, 0, 0, 1, -323, -174)">
+          <rect id="Rectangle_1809-2" data-name="Rectangle 1809" class="cls-4" width="1273" height="162" rx="40" transform="translate(323 174)"/>
+        </g>
+        <g class="cls-21" transform="matrix(1, 0, 0, 1, -323, -174)">
+          <path id="Rectangle_1811-2" data-name="Rectangle 1811" class="cls-3" d="M0,0H1274a0,0,0,0,1,0,0V652a40,40,0,0,1-40,40H40A40,40,0,0,1,0,652V0A0,0,0,0,1,0,0Z" transform="translate(323 284)"/>
+        </g>
+        <text id="Where_did_you_hear_of_skill_embassy_" data-name="Where did you hear of skill embassy? " class="cls-5" transform="translate(385 72)"><tspan x="-321.712" y="0">WHERE DID YOU HEAR OF SKILL EMBASSY? </tspan></text>
+      </g>
+      <g id="Group_412" data-name="Group 412" transform="translate(323 4291)">
+        <g id="item" transform="translate(49 659)">
+          <g class="cls-20" transform="matrix(1, 0, 0, 1, -372, -773)">
+            <rect id="Rectangle_527-7" data-name="Rectangle 527" class="cls-3" width="1176" height="84" rx="23" transform="translate(372 773)"/>
+          </g>
+          <text id="Other" class="cls-6" transform="translate(58 54)"><tspan x="-39.365" y="0">Other</tspan></text>
+          <circle id="Ellipse_369" data-name="Ellipse 369" class="cls-7" cx="10" cy="10" r="10" transform="translate(1130 32)"/>
+        </g>
+        <g id="item-2" data-name="item" transform="translate(49 565)">
+          <g class="cls-19" transform="matrix(1, 0, 0, 1, -372, -679)">
+            <rect id="Rectangle_527-8" data-name="Rectangle 527" class="cls-3" width="1176" height="84" rx="23" transform="translate(372 679)"/>
+          </g>
+          <text id="Facebook" class="cls-6" transform="translate(82 54)"><tspan x="-64.599" y="0">Facebook</tspan></text>
+          <circle id="Ellipse_369-2" data-name="Ellipse 369" class="cls-7" cx="10" cy="10" r="10" transform="translate(1130 32)"/>
+        </g>
+        <g id="item-3" data-name="item" transform="translate(49 471)">
+          <g class="cls-18" transform="matrix(1, 0, 0, 1, -372, -585)">
+            <rect id="Rectangle_527-9" data-name="Rectangle 527" class="cls-8" width="1176" height="84" rx="23" transform="translate(372 585)"/>
+          </g>
+          <text id="iNSTAGRAM" class="cls-9" transform="translate(86 54)"><tspan x="-63.954" y="0">Instagram</tspan></text>
+          <circle id="Ellipse_369-3" data-name="Ellipse 369" class="cls-3" cx="10" cy="10" r="10" transform="translate(1130 32)"/>
+        </g>
+        <g id="item-4" data-name="item" transform="translate(49 377)">
+          <g class="cls-17" transform="matrix(1, 0, 0, 1, -372, -491)">
+            <rect id="Rectangle_527-10" data-name="Rectangle 527" class="cls-3" width="1176" height="84" rx="23" transform="translate(372 491)"/>
+          </g>
+          <text id="LinkedIn_" data-name="LinkedIn " class="cls-6" transform="translate(79 54)"><tspan x="-61.059" y="0">Linkedin </tspan></text>
+          <circle id="Ellipse_369-4" data-name="Ellipse 369" class="cls-7" cx="10" cy="10" r="10" transform="translate(1130 32)"/>
+        </g>
+        <g id="item-5" data-name="item" transform="translate(49 283)">
+          <g class="cls-16" transform="matrix(1, 0, 0, 1, -372, -397)">
+            <rect id="Rectangle_527-11" data-name="Rectangle 527" class="cls-3" width="1176" height="84" rx="23" transform="translate(372 397)"/>
+          </g>
+          <text id="Twitter" class="cls-6" transform="translate(66 54)"><tspan x="-47.26" y="0">Twitter</tspan></text>
+          <circle id="Ellipse_369-5" data-name="Ellipse 369" class="cls-7" cx="10" cy="10" r="10" transform="translate(1130 32)"/>
+        </g>
+        <g id="item-6" data-name="item" transform="translate(49 189)">
+          <g class="cls-15" transform="matrix(1, 0, 0, 1, -372, -303)">
+            <rect id="Rectangle_527-12" data-name="Rectangle 527" class="cls-3" width="1176" height="84" rx="23" transform="translate(372 303)"/>
+          </g>
+          <text id="rEFERRAL" class="cls-6" transform="translate(72 54)"><tspan x="-53.717" y="0">Referral</tspan></text>
+          <circle id="Ellipse_369-6" data-name="Ellipse 369" class="cls-7" cx="10" cy="10" r="10" transform="translate(1130 32)"/>
+        </g>
+      </g>
+    </g>
+    <g id="Pagination" transform="translate(98 -27)">
+      <circle id="Ellipse_271" data-name="Ellipse 271" class="cls-8" cx="23" cy="23" r="23" transform="translate(1127 120)"/>
+      <circle id="Ellipse_270" data-name="Ellipse 270" class="cls-4" cx="3" cy="3" r="3" transform="translate(571 140)"/>
+      <circle id="Ellipse_272" data-name="Ellipse 272" class="cls-4" cx="4" cy="4" r="4" transform="translate(714 139)"/>
+      <path id="Path_909" data-name="Path 909" class="cls-4" d="M3.92,0A3.92,3.92,0,1,1,0,3.92,3.92,3.92,0,0,1,3.92,0Z" transform="translate(858.08 139.08)"/>
+      <path id="Path_910" data-name="Path 910" class="cls-4" d="M3.92,0A3.92,3.92,0,1,1,0,3.92,3.92,3.92,0,0,1,3.92,0Z" transform="translate(1002.08 139.08)"/>
+      <path id="Path_911" data-name="Path 911" class="cls-3" d="M3.92,0A3.92,3.92,0,1,1,0,3.92,3.92,3.92,0,0,1,3.92,0Z" transform="translate(1146.08 139.08)"/>
+      <rect id="Rectangle_732" data-name="Rectangle 732" class="cls-8" width="130" height="2" transform="translate(581 142)"/>
+      <rect id="Rectangle_733" data-name="Rectangle 733" class="cls-8" width="130" height="2" transform="translate(725 142)"/>
+      <rect id="Rectangle_1819" data-name="Rectangle 1819" class="cls-8" width="130" height="2" transform="translate(869 142)"/>
+      <rect id="Rectangle_1820" data-name="Rectangle 1820" class="cls-8" width="130" height="2" transform="translate(1013 142)"/>
+    </g>
+    <g id="Group_420" data-name="Group 420" transform="translate(-9 22)">
+      <g id="next" transform="translate(998.471 881.15)">
+        <g class="cls-14" transform="matrix(1, 0, 0, 1, -989.47, -903.15)">
+          <rect id="Rectangle_1090-3" data-name="Rectangle 1090" class="cls-4" width="203.52" height="58" rx="4" transform="translate(976.94 885)"/>
+        </g>
+        <path id="Icon_material-done" data-name="Icon material-done" class="cls-3" d="M10.993,19.554,6.573,15.134,5.1,16.608,10.993,22.5,23.62,9.873,22.147,8.4Z" transform="translate(139.368 -3.55)"/>
+        <text id="SUBMIT_NOW" data-name="SUBMIT NOW" class="cls-10" transform="translate(75.468 17.85)"><tspan x="-58.992" y="0">SUBMIT NOW</tspan></text>
+      </g>
+      <g id="back" transform="translate(748.471 881.15)">
+        <g class="cls-13" transform="matrix(1, 0, 0, 1, -739.47, -903.15)">
+          <rect id="Rectangle_1090-4" data-name="Rectangle 1090" class="cls-3" width="182.502" height="58.25" rx="4" transform="translate(740 885)"/>
+        </g>
+        <text id="PREVIEW" class="cls-11" transform="translate(113.03 17.85)"><tspan x="-41.506" y="0">PREVIEW</tspan></text>
+        <g id="Icon_ionic-ios-eye" data-name="Icon ionic-ios-eye" transform="translate(27.276 -6.025)">
+          <path id="Path_914" data-name="Path 914" class="cls-8" d="M17.986,7.875c-5.653,0-10.111,3.558-15.441,9.373a1.112,1.112,0,0,0-.007,1.5c4.563,5.041,8.585,9.38,15.448,9.38,6.778,0,11.862-5.463,15.476-9.422a1.1,1.1,0,0,0,.035-1.455C29.813,12.783,24.715,7.875,17.986,7.875ZM18.3,24.321A6.328,6.328,0,1,1,24.321,18.3,6.331,6.331,0,0,1,18.3,24.321Z"/>
+          <path id="Path_915" data-name="Path 915" class="cls-8" d="M18,14.7a3.3,3.3,0,0,1,.218-1.188c-.07,0-.141-.007-.218-.007A4.5,4.5,0,1,0,22.5,18c0-.091-.007-.183-.007-.274a3.118,3.118,0,0,1-1.28.274A3.264,3.264,0,0,1,18,14.7Z"/>
+        </g>
+      </g>
+    </g>
+    <g id="Icon_ionic-ios-close-circle-outline" data-name="Icon ionic-ios-close-circle-outline" transform="translate(1694.742 113.292)">
+      <path id="Path_912" data-name="Path 912" class="cls-8" d="M28.684,26.314l-5.532-5.532,5.532-5.532a1.677,1.677,0,1,0-2.372-2.372L20.78,18.41l-5.532-5.532a1.677,1.677,0,0,0-2.372,2.372l5.532,5.532-5.532,5.532a1.622,1.622,0,0,0,0,2.372,1.666,1.666,0,0,0,2.372,0l5.532-5.532,5.532,5.532a1.685,1.685,0,0,0,2.372,0A1.666,1.666,0,0,0,28.684,26.314Z" transform="translate(4.428 4.426)"/>
+      <path id="Path_913" data-name="Path 913" class="cls-8" d="M25.208,6.314a18.887,18.887,0,1,1-13.362,5.532A18.769,18.769,0,0,1,25.208,6.314m0-2.939A21.833,21.833,0,1,0,47.042,25.208,21.83,21.83,0,0,0,25.208,3.375Z"/>
+    </g>
+  </g>
+</svg>
