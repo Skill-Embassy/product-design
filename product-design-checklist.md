@@ -1,0 +1,17 @@
+These are the checklists for every product we will be designing from henceforth:
+- Always ask yourself what is the most important things you want customers to see on a particular design
+- Always make sure your tagline is uniquely written
+- When it is a design for an education company, always combine the **price** and **enroll course**
+- Always make sure that the writings are legible
+- Always make sure that the writings are clear
+- Always make sure that the text layouts are consistent
+- Always make sure that your graphics are very clear
+- Make sure your font is consistent and compatible across are platforms
+- Always make sure spacing between texts are consistent
+- Always make sure the line the line height between texts are consistent
+- Avoid putting very long sentences in a card; customers read short sentences
+- Always check that the alignments are consistnet
+- Avoid using small numbers, use big numbers
+- Always give more spacing to padding
+- Make sure the writings are legible
+- Always make sure the contrasts are consistent
