@@ -492,3 +492,45 @@ body section.contact .form_section .form_right form {
     margin-left: 2.5%;
     /* text-align: center; */
 }
+
+body section.contact .form_section .form_right form input {
+    display: block;
+    width: 80%;
+    padding: 4%;
+    margin-left: 10%;
+    margin-bottom: 2%;
+    font-size: 1.2rem;
+    font-family: inherit;
+    border-radius: 5px;
+    background-color: #ffffff;
+    border: none;
+    outline: none;
+}
+
+body section.contact .form_section .form_right form textarea {
+    display: block;
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 2%;
+    padding: 4%;
+    font-size: 1.2rem;
+    font-family: inherit;
+    border-radius: 5px;
+    background-color: #ffffff;
+    border: none;
+    outline: none;
+    resize: none;
+}
+
+body section.contact .form_section .form_right form button {
+    width: 25%;
+    padding: 3%;
+    margin-left: 10%;
+    border-radius: 32px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background-color: var(--blue);
+    color: #ffffff;
+    font-family: inherit;
+}
