@@ -436,3 +436,23 @@ body section.role-cont .role-cont_right .card_cont .card p {
 body section.role-cont .role-cont_right .card_cont .card:nth-child(2) {
     margin-top: 10%;
 }
+
+body section.contact {
+    width: 100%;
+    padding: 5%;
+    /* background-color: #fafafa96; */
+    background: linear-gradient(180deg, #f9f4fc44, #73e0de57)
+}
+
+body section.contact h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Roboto';
+    margin-bottom: 1%;
+}
+
+body section.contact h5 {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 5%;
+}
