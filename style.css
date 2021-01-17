@@ -456,3 +456,39 @@ body section.contact h5 {
     font-size: 1.5rem;
     margin-bottom: 5%;
 }
+
+body section.contact .form_section {
+    width: 100%;
+    display: flex;
+    padding: 2%;
+    justify-content: space-between;
+}
+
+body section.contact .form_section .form_left {
+    width: 40%;
+}
+
+body section.contact .form_section .form_left p {
+    font-size: 1.5rem;
+    line-height: 1.8;
+}
+
+body section.contact .form_section .form_right {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+body section.contact .form_section .form_right h2 {
+    font-size: 2rem;
+    font-family: inherit;
+    text-align: left;
+    margin-left: 10%;
+}
+
+body section.contact .form_section .form_right form {
+    width: 95%;
+    margin-left: 2.5%;
+    /* text-align: center; */
+}
