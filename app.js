@@ -1,5 +1,18 @@
 const nav = document.querySelector('nav')
+const faqs = document.querySelectorAll('.single_faq')
 
+// functions 
+function toggleFAQ(faq) {
+    faq.classList.toggle('close')
+}
+
+
+
+
+
+
+
+// event listeners
 window.addEventListener('scroll', e => {
     if (pageYOffset >= 100) {
         nav.style.backgroundColor = 'white'
@@ -8,4 +21,10 @@ window.addEventListener('scroll', e => {
         nav.style.backgroundColor = 'transparent'
         nav.style.boxShadow = 'unset'
     }
+})
+
+faqs.forEach(faq => {
+    faq.addEventListener('click', e => {
+        toggleFAQ(faq)
+    })
 })
