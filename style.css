@@ -62,6 +62,10 @@ nav .nav_links .group {
     align-items: center;
 }
 
+nav .nav_links .group a {
+    text-decoration: none;
+}
+
 nav .nav_links .group li {
     list-style: none;
     color: #000000;

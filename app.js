@@ -6,14 +6,7 @@ function toggleFAQ(faq) {
     faq.classList.toggle('close')
 }
 
-
-
-
-
-
-
-// event listeners
-window.addEventListener('scroll', e => {
+function navBarChanger() {
     if (pageYOffset >= 100) {
         nav.style.backgroundColor = 'white'
         nav.style.boxShadow = '0px 0px 12px -2px rgba(0, 0, 0, 0.5)'
@@ -21,7 +14,15 @@ window.addEventListener('scroll', e => {
         nav.style.backgroundColor = 'transparent'
         nav.style.boxShadow = 'unset'
     }
-})
+}
+
+
+
+
+
+
+// event listeners
+window.addEventListener('scroll', navBarChanger)
 
 faqs.forEach(faq => {
     faq.addEventListener('click', e => {
