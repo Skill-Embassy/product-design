@@ -620,3 +620,48 @@ body section.faqs .faqs_box .single_faq .faq_message p {
 body section.faqs .faqs_box .single_faq.close .faq_message {
     display: none;
 }
+
+body footer {
+    width: 100%;
+    padding: 1% 5% 3% 5%;
+    text-align: center;
+}
+
+body footer h2 {
+    font-size: 2rem;
+    color: goldenrod;
+}
+
+body footer .footer_logo button {
+    width: 13%;
+    padding: 1%;
+    margin-top: 2%;
+    border-radius: 32px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background-color: var(--green);
+    color: #ffffff;
+    font-family: inherit;
+}
+
+body footer .socials {
+    display: flex;
+    width: 20%;
+    margin-left: 40%;
+    margin-top: 2%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+body footer .socials .social {
+    width: 20%;
+}
+
+body footer .socials .social a {
+    color: gray;
+}
+
+body footer .reserved {
+    margin-top: 2%;
+}
