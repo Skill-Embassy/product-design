@@ -1021,6 +1021,9 @@ body footer .reserved {
         width: 24%;
     }
     body footer .reserved {
-        margin-top: 4%;
+        margin-top: 6%;
+    }
+    body footer .reserved h5 {
+        font-size: 1.3rem;
     }
 }
