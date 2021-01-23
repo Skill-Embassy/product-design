@@ -937,4 +937,38 @@ body footer .reserved {
     body section.role-cont .role-cont_right .card_cont .card p {
         font-size: 1.2rem;
     }
+    body section.contact {
+        padding: 5%;
+    }
+    body section.contact h2 {
+        font-size: 2.8rem;
+        margin-bottom: 5%;
+    }
+    body section.contact h5 {
+        font-size: 1.2rem;
+    }
+    body section.contact .form_section {
+        flex-direction: column;
+    }
+    body section.contact .form_section .form_left {
+        width: 100%;
+    }
+    body section.contact .form_section .form_left p {
+        font-size: 1.4rem;
+        line-height: 1.4;
+    }
+    body section.contact .form_section .form_right {
+        width: 100%;
+        margin-top: 5%;
+    }
+    body section.contact .form_section .form_right h2 {
+        font-size: 1.5rem;
+    }
+    body section.contact .form_section .form_right form {
+        width: 100%;
+        margin-left: 0%;
+    }
+    body section.contact .form_section .form_right form button {
+        width: 35%;
+    }
 }
