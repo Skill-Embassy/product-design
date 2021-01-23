@@ -873,4 +873,40 @@ body footer .reserved {
     body section.main_info .main_info_right .info .info_career li {
         font-size: 1.5rem;
     }
+    body section.roles {
+        flex-direction: column;
+        justify-content: unset;
+        align-items: unset;
+    }
+    body section.roles .roles_left {
+        width: 100%;
+        padding: 5%;
+        order: 2;
+    }
+    body section.roles .roles_left .card_container .card h3 {
+        font-size: 1.5rem;
+    }
+    body section.roles .roles_left .card_container .card p {
+        font-size: 1.2rem;
+    }
+    body section.roles .roles_right {
+        width: 100%;
+        padding: 2%;
+        order: 1;
+    }
+    body section.roles .roles_right .role_message {
+        width: 90%;
+        margin-left: 10%;
+        margin-bottom: 12%;
+    }
+    body section.roles .roles_right .role_message h3 {
+        font-size: 3rem;
+    }
+    body section.roles .roles_right .role_message h5 {
+        font-size: 1.5rem;
+        width: 70%;
+    }
+    body section.roles .roles_right .role_img {
+        margin-bottom: 10%;
+    }
 }
