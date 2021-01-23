@@ -764,3 +764,33 @@ body footer .socials .social a {
 body footer .reserved {
     margin-top: 2%;
 }
+
+@media screen and (max-width:480px) {
+    nav {
+        padding: 3% 1%;
+    }
+    nav .logo {
+        width: 35%;
+    }
+    nav .logo img {
+        width: 20%;
+    }
+    nav .logo h1 {
+        font-size: 1.2rem;
+    }
+    nav .nav_links {
+        width: 65%;
+    }
+    nav .nav_links .group {
+        width: 67%;
+    }
+    nav .nav_links .group li {
+        font-size: 1.1rem;
+    }
+    nav .nav_links .nav_signup {
+        width: 28%;
+        padding: 3% 2%;
+        border-radius: 11px;
+        font-size: 1rem;
+    }
+}
