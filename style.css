@@ -937,9 +937,6 @@ body footer .reserved {
     body section.role-cont .role-cont_right .card_cont .card p {
         font-size: 1.2rem;
     }
-    body section.contact {
-        padding: 5%;
-    }
     body section.contact h2 {
         font-size: 2.8rem;
         margin-bottom: 5%;
@@ -970,5 +967,33 @@ body footer .reserved {
     }
     body section.contact .form_section .form_right form button {
         width: 35%;
+    }
+    body section.faqs h2 {
+        font-size: 2.5rem;
+    }
+    body section.faqs .faqs_box {
+        width: 95%;
+        margin-left: 2.5%;
+    }
+    body section.faqs .faqs_box .single_faq {
+        width: 100%;
+        margin-left: 0%;
+    }
+    body section.faqs .faqs_box .single_faq .title {
+        width: 100%;
+        padding: 2%;
+    }
+    body section.faqs .faqs_box .single_faq .title h2 {
+        font-size: 1.4rem;
+    }
+    body section.faqs .faqs_box .single_faq .title .chevron {
+        width: 15%;
+    }
+    body section.faqs .faqs_box .single_faq .title .chevron ion-icon {
+        font-size: 24px;
+    }
+    body section.faqs .faqs_box .single_faq .faq_message p {
+        font-size: 1.2rem;
+        line-height: 1.4;
     }
 }
