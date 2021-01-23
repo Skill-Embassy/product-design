@@ -835,10 +835,42 @@ body footer .reserved {
         padding: 2%;
         z-index: 3;
         margin-bottom: 15%;
-        /* margin-top: -19%;
-        margin-bottom: 24%; */
     }
     body section.hero .hero_right img {
         width: 90%;
+    }
+    body section.main_info {
+        flex-direction: column;
+        margin-top: 15%;
+    }
+    body section.main_info .main_info_left {
+        width: 100%;
+        order: 2;
+    }
+    body section.main_info .main_info_left .card_div {
+        width: 100%;
+    }
+    body section.main_info .main_info_left .card_div .card h3 {
+        font-size: 1.3rem;
+    }
+    body section.main_info .main_info_left .card_div .card p {
+        font-size: 1.1rem;
+    }
+    body section.main_info .main_info_right {
+        width: 100%;
+        order: 1;
+        text-align: center;
+    }
+    body section.main_info .main_info_right .info {
+        width: 90%;
+    }
+    body section.main_info .main_info_right .info h3 {
+        font-size: 3rem;
+    }
+    body section.main_info .main_info_right .info .info_career {
+        width: 100%;
+    }
+    body section.main_info .main_info_right .info .info_career li {
+        font-size: 1.5rem;
     }
 }
