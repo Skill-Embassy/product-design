@@ -909,4 +909,32 @@ body footer .reserved {
     body section.roles .roles_right .role_img {
         margin-bottom: 10%;
     }
+    body section.role-cont {
+        flex-direction: column;
+    }
+    body section.role-cont .role-cont_left {
+        width: 100%;
+        padding: 5%;
+    }
+    body section.role-cont .role-cont_left .img_cont {
+        width: 80%;
+    }
+    body section.role-cont .role-cont_left .img_cont img {
+        width: 90%;
+    }
+    body section.role-cont .role-cont_right {
+        width: 100%;
+    }
+    body section.role-cont .role-cont_right .card_cont {
+        width: 100%;
+    }
+    body section.role-cont .role-cont_right .card_cont .card {
+        margin-left: 20%;
+    }
+    body section.role-cont .role-cont_right .card_cont .card h3 {
+        font-size: 1.5rem;
+    }
+    body section.role-cont .role-cont_right .card_cont .card p {
+        font-size: 1.2rem;
+    }
 }
