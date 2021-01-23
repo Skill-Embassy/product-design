@@ -996,4 +996,31 @@ body footer .reserved {
         font-size: 1.2rem;
         line-height: 1.4;
     }
+    body footer {
+        width: 100%;
+        padding: 1% 5% 3% 5%;
+        text-align: center;
+    }
+    body footer h2 {
+        font-size: 2.5rem;
+        color: goldenrod;
+    }
+    body footer .footer_logo button {
+        width: 30%;
+        padding: 2% 1%;
+    }
+    body footer .socials {
+        width: 60%;
+        margin-left: 20%;
+        margin-top: 5%;
+    }
+    body footer .socials .social a img {
+        width: 41%;
+    }
+    body footer .socials .social:nth-child(1) a img {
+        width: 24%;
+    }
+    body footer .reserved {
+        margin-top: 4%;
+    }
 }
