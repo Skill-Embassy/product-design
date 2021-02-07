@@ -5,7 +5,7 @@ These are the checklists for every product we will be designing from henceforth:
 - Always make sure that the writings are legible
 - Always make sure that the writings are clear
 - Always make sure that the text layouts are consistent
-- Always make sure that your graphics are very clear
+- Always make sure that your graphics are very clear 
 - Make sure your font is consistent and compatible across are platforms
 - Always make sure spacing between texts are consistent
 - Always make sure the line the line height between texts are consistent
